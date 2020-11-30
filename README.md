@@ -1,5 +1,4 @@
 # edgeMDT
-# vehcontrol
 
 NUI MDT for FiveM and ESX
 
